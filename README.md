@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ECCDemoLabs/GitIntegration/_apis/build/status%2FECClabs.ContosoAir?branchName=master)](https://dev.azure.com/ECCDemoLabs/GitIntegration/_build/latest?definitionId=156&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
